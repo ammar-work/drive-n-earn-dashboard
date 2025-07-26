@@ -6,7 +6,7 @@ import plotly.io as pio
 import plotly.graph_objects as go
 from datetime import datetime, timedelta
 import random
-from streamlit_extras.metric_cards import style_metric_cards
+# from streamlit_extras.metric_cards import style_metric_cards
 from prophet import Prophet
 
 # Modern dark theme, fonts, and green-accented CSS
